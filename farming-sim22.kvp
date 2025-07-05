@@ -1,7 +1,7 @@
 Meta.DisplayName=Farming-Sim22
 Meta.Description=Farming Simulator 22
 Meta.Arch=x86_64
-Meta.Author=TGSCServer-
+Meta.Author=TGSCServer - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/1248130/Farming_Simulator_22/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
@@ -10,7 +10,7 @@ Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
 Meta.EndpointURIFormat=steam://connect/{ip}/{GenericModule.App.ApplicationPort2}
-Meta.AppConfigId=3865b2c1-15b8-47e6-9a96-06b75791a55b
+Meta.AppConfigId=70dc290b-e7b3-4e31-b884-65fee4e317e4
 App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
