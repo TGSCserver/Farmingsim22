@@ -1,10 +1,10 @@
 {
     "id": "242c3379-f460-41f9-a837-84d8100fffcc",
     "authors": [
-        "TGSCServer - Made with AMP Config Generator"
+        "TGSCServer"
     ],
-    "origin": "https://github.com/TGSCServer - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/TGSCServer - Made with AMP Config Generator/AMPTemplates",
+    "origin": "https://github.com/TGSCServer/AMPTemplates.git",
+    "url": "https://github.com/TGSCServer/AMPTemplates",
     "imagefile": "",
-    "prefix": "TGSCServer - Made with AMP Config Generator"
+    "prefix": "TGSCServer "
 }
