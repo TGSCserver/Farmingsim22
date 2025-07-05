@@ -8,7 +8,7 @@
     },
     {
         "Protocol": "Both",
-        "Port": "27015",
+        "Port": "27915",
         "Name": "Steam Game Port",
         "Description": "Port used for main game traffic",
         "Ref": "MainGamePort"
