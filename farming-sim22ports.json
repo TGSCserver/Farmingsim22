@@ -1,6 +1,6 @@
 [
     {
-        "Protocol": "Both",
+        "Protocol": "TCP",
         "Port": "10823",
         "Name": "Game Port",
         "Description": "Port used for main game traffic",
@@ -14,8 +14,8 @@
         "Ref": "SteamGamePort"
     },
     {
-        "Protocol": "Both",
-        "Port": "27036",
+        "Protocol": "UDP",
+        "Port": "27034",
         "Name": "Steam Query Port",
         "Description": "Port used for main game traffic",
         "Ref": "steamQueryPort"
