@@ -1,7 +1,7 @@
 Meta.DisplayName=Farming-Sim22
 Meta.Description=Farming Simulator 22
 Meta.Arch=x86_64
-Meta.Author=TGSCServer
+Meta.Author=TGSCServer-
 Meta.URL=https://store.steampowered.com/app/1248130/Farming_Simulator_22/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
