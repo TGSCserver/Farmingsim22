@@ -4,20 +4,20 @@
         "Port": "10823",
         "Name": "Game Port",
         "Description": "Port used for main game traffic",
-        "Ref": "MainGamePort"
+        "Ref": "GamePort"
     },
     {
         "Protocol": "Both",
         "Port": "27915",
         "Name": "Steam Game Port",
         "Description": "Port used for main game traffic",
-        "Ref": "MainGamePort"
+        "Ref": "SteamGamePort"
     },
     {
         "Protocol": "Both",
         "Port": "27036",
         "Name": "Steam Query Port",
         "Description": "Port used for main game traffic",
-        "Ref": "MainGamePort"
+        "Ref": "steamQueryPort"
     }
 ]
